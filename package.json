@@ -1,0 +1,14 @@
+{
+  "name": "docker-demo",
+  "version": "1.0.0",
+  "description": "learning & practice docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bchavs12",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
